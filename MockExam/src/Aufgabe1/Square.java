@@ -11,6 +11,7 @@ public class Square {
     			{7, 7, 4, 3, 3}, 
     			{0, 3, 5, 7, 2} 
     		};
+    	//
 
     	System.out.println(checkProperty(t));
     }
