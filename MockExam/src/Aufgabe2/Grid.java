@@ -18,7 +18,8 @@ public class Grid {
 	}
 	
 	public static void adjustGrid(Node origin, int A, int B) {
-		//TODO
+		//this is basically just constructing a new grid of size A x B (A rows and B columns)
+		//getRight and getDown return null if there are no new nodes in the thing
 	}
 
 }
